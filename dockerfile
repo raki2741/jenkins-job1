@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM raki2741/dockerfile
 
 RUN rm /var/www/html/index.html
 

@@ -1,4 +1,4 @@
-FROM raki2741/dockerfile
+FROM raki2741/jenkins
 
 RUN rm /var/www/html/index.html
 

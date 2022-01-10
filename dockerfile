@@ -1,4 +1,4 @@
-FROM raki2741/ubuntu
+FROM ubuntu
 
 RUN rm /var/www/html/index.html
 
